@@ -334,7 +334,6 @@ footer .icons img {
 }
 @media (max-width: 480px) {
   header {
-    height: 92vh !important;
     padding: 0.1rem !important;
   }
   header .header-content {
